@@ -51,12 +51,14 @@ export const metadata: Metadata = {
     description:
       "A typing test built around sound. Real keystroke audio, smooth performance tracking, and a calm dark interface.",
     siteName: siteConfig.name,
+    images: [{ url: "/preview.png", width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Stroke it | Type with Sound",
     description:
       "A typing test built around sound. Real keystroke audio, smooth performance tracking.",
+    images: ["/preview.png"],
   },
   robots: {
     index: true,
