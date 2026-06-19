@@ -18,25 +18,22 @@ export default function OG() {
           width: "100%",
         }}
       >
-        <svg
-          fill="none"
-          height="80"
-          viewBox="0 0 80 80"
-          width="80"
+        <div
+          style={{
+            alignItems: "center",
+            background: "oklch(0.72 0.22 250)",
+            borderRadius: 16,
+            color: "white",
+            display: "flex",
+            fontSize: 44,
+            fontWeight: 700,
+            height: 80,
+            justifyContent: "center",
+            width: 80,
+          }}
         >
-          <rect fill="oklch(0.72 0.22 250)" height="80" rx="16" width="80" />
-          <text
-            fill="white"
-            fontFamily="Inter, sans-serif"
-            fontSize="40"
-            fontWeight="700"
-            textAnchor="middle"
-            x="40"
-            y="52"
-          >
-            S
-          </text>
-        </svg>
+          S
+        </div>
         <p
           style={{
             color: "oklch(0.92 0.02 280)",
