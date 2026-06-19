@@ -3,7 +3,7 @@ export const siteConfig = {
   shortName: "Stroke it",
   description:
     "A clean, minimal typing speed test with satisfying key sounds and real-time stats. Practice, improve, and track your WPM with style.",
-  url: "https://strokeit.app",
+  url: "https://strokeit.vercel.app",
   themeColor: "#0a0a0f",
   backgroundColor: "#0a0a0f",
   creator: "Ahmar Yaseen",
