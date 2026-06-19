@@ -21,7 +21,7 @@ export default function OG() {
         <div
           style={{
             alignItems: "center",
-            background: "oklch(0.72 0.22 250)",
+            background: "#4f7fff",
             borderRadius: 16,
             color: "white",
             display: "flex",
@@ -36,7 +36,7 @@ export default function OG() {
         </div>
         <p
           style={{
-            color: "oklch(0.92 0.02 280)",
+            color: "#eae6f0",
             fontFamily: "Inter, sans-serif",
             fontSize: 56,
             fontWeight: 700,
@@ -49,7 +49,7 @@ export default function OG() {
         </p>
         <p
           style={{
-            color: "oklch(0.55 0.05 280)",
+            color: "#8a84a0",
             fontFamily: "Inter, sans-serif",
             fontSize: 24,
             marginTop: 8,
